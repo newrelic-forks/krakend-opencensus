@@ -17,3 +17,5 @@ There are the avaliable middlewares to add to the KrakenD pipes.
 2. [gin](github.com/devopsfaith/krakend-opencensus/blob/master/gin) Gin based routers and handlers
 
 Check the examples and the documentation for more details
+
+## How to build
